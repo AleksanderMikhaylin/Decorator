@@ -1,1 +1,1 @@
-# Decorator
+ДЗ Decorator
